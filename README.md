@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @RileyEsch
-- 👀 I’m interested in data science, data structures and machine learning.
-- 🌱 I’m currently learning as much as possible as I make a transition from aerospace engineering into the computer science field.
-- 💞️ I’m looking to collaborate on any and all projects that will help me gain experience.
-- 📫 For now, the best place to reach me is via my github profile, or email, RileyEschenbach@gmail.com.
+-  Hi, I’m @RileyEsch
+-  I’m interested in data science, data structures and machine learning.
+-  I'm looking to collaborate on any and all projects that will help me gain experience.
+-  For now, the best place to reach me is via my github profile, or email, RileyEschenbach@gmail.com.
